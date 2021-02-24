@@ -22,9 +22,10 @@ body {
   }
   
   img {
-    max-width: 500px;
+    max-width: 250px;
     float: left;
     padding: 2rem;
+    height: 200px;
   }
   
   li:nth-child(2) {
