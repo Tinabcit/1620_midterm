@@ -40,7 +40,9 @@ nav{
   padding-right: 50px;
 
  }
-
+ nav li a:hover{
+  background-color:#02040F;
+}
 #divContent-Index {
   padding: 20px;
   margin: 10px;
