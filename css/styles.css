@@ -28,9 +28,17 @@ body {
     height: 200px;
   }
   
- nav a{
-   height:25px;
-   position: relative;
-   height: 100px;
+ nav li a{
+  display: inline-block;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-align: left;
+  font-size: 25px;
+  position: relative;
+  margin-left: 350px;
+  margin-right: 400px;
+  padding-top: 23px;
+  padding-bottom: 20px;
+  padding-right: 50px;
 
  }
