@@ -16,9 +16,7 @@ body {
     display: inline;
   }
   
- #divTextWrap p{
-   font-size: 100px;
- }
+ 
 
   
   img {
@@ -61,4 +59,19 @@ body {
   left: 10px;
   padding-bottom: 23px; 
   position: relative;
+}
+
+.TextWrap {
+ float:left;
+ margin: 5px;
+ margin-left:10px;
+ margin-bottom: 10px;
+ max-width: 100%;
+ max-height: 25%;
+ display: block;
+ height: auto;
+ width:800px;
+ height:900px;
+ overflow: hidden;
+ object-fit: scale-down;
 }
