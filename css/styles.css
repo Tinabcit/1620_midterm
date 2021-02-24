@@ -42,3 +42,23 @@ body {
   padding-right: 50px;
 
  }
+
+#Content-Index{
+  padding: 20px;
+  margin: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+  display:inline;
+  margin-top: 33px;
+  margin-left: 10px;
+  width: 74px;
+  height: 700px;
+  list-style-type: none;
+  padding-top: 33px;;
+  padding-left: 10px;
+  top: 55px;
+  bottom: 44px;
+  left: 10px;
+  padding-bottom: 23px; 
+  position: relative;
+}
