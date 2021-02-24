@@ -12,13 +12,14 @@ body {
   
   h1 {
     font-family: 'Quicksand', sans-serif;
-    font-size: 3rem;
+    font-size: 50px;
     display: inline;
   }
   
-  o {
-    font-family: 'Montserrat', sans-serif;
-  }
+ #divTextWrap p{
+   font-size: 100px;
+ }
+
   
   img {
     max-width: 250px;
@@ -27,6 +28,9 @@ body {
     height: 200px;
   }
   
-  li:nth-child(2) {
-    padding: 2rem;
-  }
+ nav a{
+   height:25px;
+   position: relative;
+   height: 100px;
+
+ }
